@@ -12,4 +12,3 @@ for i in range(number_of_classes):
 print("\nHere are your classes this semester:")
 for sem in semester:
     print(sem)
-
